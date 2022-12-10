@@ -15,8 +15,8 @@ Zum Mitspielen benötigt ihr die folgende, kostenlose Software, die für Windows
 ### Steam
 
 1. gehe zur [Steam-Webseite](https://store.steampowered.com/)
-2. klicke oben auf "Steam installieren" und führe den Installer aus
-3. (sofern noch nicht vorhanden musst du hierbei ein Steam-Konto eröffnen - kostenlos)
+2. klicke oben auf "Steam installieren" und führe den Installer aus (sofern noch nicht vorhanden musst du hierbei kostenlos ein Steam-Konto eröffnen)
+3. starte Steam und logge dich mit deinem Steam-Konto ein
 
 ### Counter-Strike: Global Offensive (via Steam)
 
