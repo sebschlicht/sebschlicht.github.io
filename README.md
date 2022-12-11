@@ -10,7 +10,11 @@ Kommt bei Fragen und Problemen gerne auf uns zu!
 
 ## Voraussetzungen
 
-Zum Mitspielen benötigt ihr die folgende, kostenlose Software, die für Windows, Mac und Ubuntu erhältlich ist.
+Zum Mitspielen benötigt ihr Software, die für Windows, Mac und Ubuntu kostenlos erhältlich ist:
+
+* Steam
+* Counter-Strike: Global Offensive (Steam)
+* Mumble
 
 ### Steam
 
@@ -18,7 +22,7 @@ Zum Mitspielen benötigt ihr die folgende, kostenlose Software, die für Windows
 2. klicke oben auf "Steam installieren" und führe den Installer aus (sofern noch nicht vorhanden musst du hierbei kostenlos ein Steam-Konto eröffnen)
 3. starte Steam und logge dich mit deinem Steam-Konto ein
 
-### Counter-Strike: Global Offensive (via Steam)
+### Counter-Strike: Global Offensive (Steam)
 
 1. gehe zur [Steam-Webseite](https://store.steampowered.com/)
 2. logge dich mit deinem Steam-Account ein
