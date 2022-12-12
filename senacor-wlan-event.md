@@ -8,11 +8,13 @@ permalink: /senacor-wlan-event
 
 Bald öffnen sich die Tore zum Frohen Schützenfest. Hier erfahrt ihr was wann, womit und wie passiert.
 
-Wir wollen am xx.xx.xxxx mit euch eine Runde CS:GO spielen, los geht's um xx:xx Uhr.
+Wir wollen am 21.12.2022 mit euch eine Runde CS:GO spielen, ihr solltet alle eine Einladung per Termin erhalten haben.
 Der [Ablauf und die Regeln](#ablauf) stehen unten.
 
-Bitte nehmt euch *rechtzeitig vor dem Event* die Zeit, die [benötigte Software](#voraussetzungen) zu installieren und zu testen.  
-Kommt bei Fragen und Problemen gerne auf uns zu!
+>⚠️ Bitte nehmt euch *rechtzeitig vor dem Event* die Zeit, die [benötigte Software](#voraussetzungen) zu installieren und zu testen.
+> CS:GO ist ca. 30GB groß und kann daher (in der Regel) nicht im Rahmen des eigentlichen Events heruntergeladen werden.
+
+Kommt bei Fragen und Problemen gerne via Slack auf uns zu!
 
 ## Voraussetzungen
 
